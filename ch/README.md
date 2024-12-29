@@ -45,6 +45,7 @@ https://xover.mud.at/~invisible/mirror/sig/asr/desigchra.html
 ## Signale Typ N
 https://de.wikipedia.org/wiki/Signalsystem_N
 
+![image](https://github.com/user-attachments/assets/937c497c-c5af-4b91-be37-df541c138487)
 ![image](https://github.com/user-attachments/assets/9c4f4c9a-5dfd-43e9-9bbf-529421f619fa)
 ![image](https://github.com/user-attachments/assets/ed60be23-eaf2-4da0-b455-fd726476d6dd)
 
