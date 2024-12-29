@@ -25,6 +25,9 @@ https://xover.mud.at/~invisible/mirror/sig/asr/desigchsysl.html
 ![image](https://github.com/user-attachments/assets/eaa73297-0f2a-4bdc-83a0-541be6f34dfd)
 ![image](https://github.com/user-attachments/assets/136d3045-d3b5-41f8-a7ea-b487a304cced)
 
+![image](https://github.com/user-attachments/assets/abe0b080-79bd-4154-bc92-bca62776330d)
+![image](https://github.com/user-attachments/assets/00c213fe-3e60-4b8e-9501-14612c0a39c2)
+
 ## Rangiersignale
 https://xover.mud.at/~invisible/mirror/sig/asr/desigchra.html
 
