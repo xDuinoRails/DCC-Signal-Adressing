@@ -24,9 +24,6 @@ https://xover.mud.at/~invisible/mirror/sig/asr/desigchsysl.html
 ![image](https://github.com/user-attachments/assets/eaa73297-0f2a-4bdc-83a0-541be6f34dfd)
 ![image](https://github.com/user-attachments/assets/136d3045-d3b5-41f8-a7ea-b487a304cced)
 
-## Signale Typ N
-https://de.wikipedia.org/wiki/Signalsystem_N
-
 ## Rangiersignale
 https://xover.mud.at/~invisible/mirror/sig/asr/desigchra.html
 
@@ -38,3 +35,14 @@ https://xover.mud.at/~invisible/mirror/sig/asr/desigchra.html
 ![image](https://github.com/user-attachments/assets/262ecd39-2267-495d-9eb0-dfe8cd0fa090)
 ![image](https://github.com/user-attachments/assets/3c91e097-0160-4b85-bfc3-804046bd5dd8)
 
+## Signale Typ N
+https://de.wikipedia.org/wiki/Signalsystem_N
+
+## Bremsprobesignal
+https://xover.mud.at/~invisible/mirror/sig/asr/desigchba.html
+
+![image](https://github.com/user-attachments/assets/6bc7d253-276b-4ff1-b107-c80f1b8a9cea)
+![image](https://github.com/user-attachments/assets/e0971091-5a49-4dbb-ae4d-467e7c96e064)
+![image](https://github.com/user-attachments/assets/4d403e2a-a64c-4dae-8646-633a7ac09515)
+![image](https://github.com/user-attachments/assets/baa36480-b779-48ca-90ea-79a62c11a2a3)
+![image](https://github.com/user-attachments/assets/06092919-2f25-4023-a9cd-896408aaacb7)
