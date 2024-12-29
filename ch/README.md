@@ -7,10 +7,11 @@ https://de.wikipedia.org/wiki/Signalsystem_L
 
 ## Main Signal Typ L
 
-|--- |--- |--- |
-|  | STOP |  |
-|--- |--- |--- |
-|  | GO   |  |
+|--- |---      |---     |
+|    | COMMAND | LIGHTS |
+|--- |---      |---     |
+|    | STOP    |        |
+|    | GO      |        |
 
 ## Pre Signal Typ L
 
