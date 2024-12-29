@@ -7,7 +7,6 @@ https://de.wikipedia.org/wiki/Signalsystem_L
 
 ## Main Signal Typ L
 
-|--- |---      |---     |
 |    | COMMAND | LIGHTS |
 |--- |---      |---     |
 |    | STOP    |        |
