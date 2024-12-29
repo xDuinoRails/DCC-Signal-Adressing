@@ -12,6 +12,9 @@ https://xover.mud.at/~invisible/mirror/sig/asr/desigchsysl.html
 ![image](https://github.com/user-attachments/assets/8e45e168-b9a2-4c62-b69f-2776fc1f977a)
 ![image](https://github.com/user-attachments/assets/19be14fa-5ad6-433c-9291-4807315de08c)
 
+![image](https://github.com/user-attachments/assets/3e375dbf-74f4-49fc-84ba-15115ce3c202)
+
+
 
 
 |    | COMMAND | LIGHTS |
