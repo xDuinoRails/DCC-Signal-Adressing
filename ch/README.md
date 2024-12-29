@@ -45,6 +45,11 @@ https://xover.mud.at/~invisible/mirror/sig/asr/desigchra.html
 ## Signale Typ N
 https://de.wikipedia.org/wiki/Signalsystem_N
 
+![image](https://github.com/user-attachments/assets/9c4f4c9a-5dfd-43e9-9bbf-529421f619fa)
+![image](https://github.com/user-attachments/assets/764f7314-5145-4de4-9ecd-f2babc0d1b24)
+![image](https://github.com/user-attachments/assets/ed60be23-eaf2-4da0-b455-fd726476d6dd)
+
+
 ## Bremsprobesignal
 https://xover.mud.at/~invisible/mirror/sig/asr/desigchba.html
 
